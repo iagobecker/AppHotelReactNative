@@ -1,6 +1,6 @@
 # AppHotelReactNative
 <div align="center">
-  <img align="center" alt="Iago-Js" height="200" width="300" src="https://user-images.githubusercontent.com/83254191/276341257-0ac60927-cf62-41ce-acef-92d4fb90cddf.jpg" alt="Imagem 1" />
+  <img align="center" alt="Iago-Js" height="200" width="900" src="https://user-images.githubusercontent.com/83254191/276341257-0ac60927-cf62-41ce-acef-92d4fb90cddf.jpg" alt="Imagem 1" />
   <img  src="https://user-images.githubusercontent.com/83254191/276341222-b2c202a8-42a4-433d-bd03-75be058b7a70.jpg" alt="Imagem 2" />
   <img  src="https://user-images.githubusercontent.com/83254191/276341228-a50bb097-b992-4de6-8ac9-99af8289b1f4.jpg" alt="Imagem 3" />
   <img  src="https://user-images.githubusercontent.com/83254191/276341231-6839d595-ad6a-4106-ad6c-55f10bd408d4.jpg" alt="Imagem 4" />
